@@ -23,7 +23,7 @@ require (
 	github.com/tektoncd/pipeline v0.24.1
 	github.com/tektoncd/plumbing v0.0.0-20210514044347-f8a9689d5bd5
 	github.com/tektoncd/triggers v0.14.1
-	github.com/tidwall/gjson v1.6.0 // indirect
+	github.com/tidwall/gjson v1.9.3 // indirect
 	go.opencensus.io v0.23.0
 	go.uber.org/multierr v1.5.0
 	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf
